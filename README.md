@@ -4,7 +4,7 @@ Nim : 2409116099
 Kelas : Sistem Informasi C
 
 
-***Progran Perhitungan Gaji Karyawan***
+***Program Perhitungan Gaji Karyawan***
 Program ini merupakan program yang dapat digunkan untuk menghitung gaji karyawan sesuai dengan jumlah jam kerja yang mereka masukkan. Pengguna dapat mengetahui apakah gaji mereka mendapat kan bonus atau tidak dengan program ini.
 
 ***Flowchart***
