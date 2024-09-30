@@ -11,3 +11,13 @@ Program ini merupakan program yang dapat digunkan untuk menghitung gaji karyawan
 ![Screenshot (181)](https://github.com/user-attachments/assets/f9254d0b-0c6e-4d1d-b823-972677c6d5af)
 
 ***Cara Kerja Program***
+![Screenshot (183)](https://github.com/user-attachments/assets/7882a7ff-6494-4778-8c91-5345753c9b1d)
+
+1. Untuk memulai program,pengguna mengisi format Nama Karyawan, Jumlah Jam kerja, Tarif Kerja
+2. Program akan memproses,
+>jika pengguna mengisi format Jumlah Jam Kerja >= 160 (lebih dari 160 jam), maka gaji yang dihasilkan berupa Tarif Kerja (sesuai format yang di isi) + 10%
+3.Apabila hasil gaji telah ditampilkan, pengguna dapat menghitung kembali gaji mereka dengan mengetik "ya" (menggunakan perulangan pada program)
+>
+>jika pengguna mengisi format Jumlah Jam Kerja <=160 (kurang dari 160 jam), maka gaji yang dihasilkan tetap/ tidak mendapatkan bonus, program otomatis menampilkan hasil gaji yang sama dengan Tarif Kerja (sesuai format yang di isi)
+4.Apabila hasil gaji telah ditampilkan, pengguna dapat menyelesaikan penggunaan program dengan mengetik "tidak" maka program tidak menampilkan lagi pengisian format (program selesai)
+
