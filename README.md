@@ -10,6 +10,9 @@ Program ini merupakan program yang dapat digunkan untuk menghitung gaji karyawan
 ***Flowchart***
 ![Screenshot (181)](https://github.com/user-attachments/assets/f9254d0b-0c6e-4d1d-b823-972677c6d5af)
 
+***File Python Program***
+
+
 ***Cara Kerja Program***
 ![Screenshot (183)](https://github.com/user-attachments/assets/7882a7ff-6494-4778-8c91-5345753c9b1d)
 
